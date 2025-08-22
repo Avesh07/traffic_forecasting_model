@@ -12,3 +12,8 @@ While traffic boosts per-trip driver earnings, it reduces customer satisfaction 
 
 Conclusion:
 Traffic plays a direct and dynamic role in shaping Uber’s pricing algorithms, profitability, and customer experience.
+
+Results:
+Model accuracy (~87%).
+Predicted congestion patterns (8–11 AM, 5–8 PM).
+Business impact (reduce wait times by ~8%, optimize driver placement).
